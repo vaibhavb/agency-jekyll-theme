@@ -1,7 +1,7 @@
-Agency Jekyll theme
-====================
+Agency Jekyll theme for Lib13
+==============================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Lib13 theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
 
