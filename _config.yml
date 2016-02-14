@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Vaibhav Bhandari
-  pic: 1
+  pic: 2
   position: Mixologist
   social:
     - title: twitter
@@ -36,6 +36,16 @@ people:
     - title: linkedin
       url: #
 
+- name: Srikumar R
+  pic: 2
+  position: Director, Computer Vision
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
