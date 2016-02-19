@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Vaibhav Bhandari
-  pic: 2
+  pic: male-silhouette
   position: Mixologist
   social:
     - title: twitter
@@ -26,7 +26,7 @@ people:
       url: #
 
 - name: Brian Hur
-  pic: 2
+  pic: male-silhouette
   position: Director, Growth Hacking
   social:
     - title: twitter
@@ -37,7 +37,7 @@ people:
       url: #
 
 - name: Srikumar R
-  pic: 2
+  pic: male-silhouette
   position: Director, Computer Vision
   social:
     - title: twitter
