@@ -19,19 +19,15 @@ people:
   position: Mixologist
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: http://www.twitter.com/vaibhavb
     - title: github
-      url: #
+      url: http://www.github.com/vaibhavb
 
 - name: Brian Hur
   pic: male-silhouette
   position: Director, Growth Hacking
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -40,8 +36,8 @@ people:
   pic: male-silhouette
   position: Director, Computer Vision
   social:
-    - title: twitter
-      url: #
+    - title: university
+      url: http://www.twitter.com/vaibhavb
     - title: facebook
       url: #
     - title: linkedin
@@ -50,15 +46,8 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://twitter.com/vaibhavb
+
 
 # Postal address (add as many lines as necessary)
 address:
